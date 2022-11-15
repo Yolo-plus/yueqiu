@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3322294 */
+  src: url('//at.alicdn.com/t/font_3322294_jcsd5jilu6.woff2?t=1649765556450') format('woff2'),
+       url('//at.alicdn.com/t/font_3322294_jcsd5jilu6.woff?t=1649765556450') format('woff'),
+       url('//at.alicdn.com/t/font_3322294_jcsd5jilu6.ttf?t=1649765556450') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+}
+
+.icon-duigou:before {
+  content: "\e627";
+}
+
+.caigou .el-collapse-item__header:before {
+  content: "\e651";
+  padding-right: 4px;
+}
+
+.shangpin .el-collapse-item__header:before {
+  content: "\e683";
+  padding-right: 4px;
+}
