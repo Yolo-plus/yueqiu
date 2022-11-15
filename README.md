@@ -3,7 +3,7 @@
 ## 说明
 1. 使用npm i安装依赖
 2. 运行前端项目npm run dev
-3. localhost:8080打开前端页面
+3. 打开前端页面localhost:8080
 
 ## 页面一
 ![image](https://user-images.githubusercontent.com/61956206/201981764-21e98cf2-f695-4da9-9684-ae2c8f07e5f0.png)
